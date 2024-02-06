@@ -1,5 +1,5 @@
 "use client";
-import { Github, Mail, PenIcon, Twitter } from "lucide-react";
+import { Github, Mail, PenIcon, LinkedinIcon } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -7,9 +7,9 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <PenIcon size={20} />,
-		href: "https://twitter.com/chronark_",
-		label: "Medium",
-		handle: "@sanzcrpt",
+		href: "https://medium.com/@sanzcrpt",
+		label: "LinkedIn",
+		handle: "@sanrob",
 	},
 	{
 		icon: <Mail size={20} />,
