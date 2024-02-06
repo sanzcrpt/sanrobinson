@@ -43,9 +43,9 @@ export default function Home() {
             className="underline duration-500 hover:text-emerald-300"
           >
             Tap In
-          </Link> and helping decode some complex problems.I believe in using
+          </Link> and helping decode some complex problems. I believe in using
            my technical skills not just to build cool things, but to address 
-           real-world challenges and empower communities. 
+           real-world challenges, empower communities, and inspire travel. 
            
         </h2>
       </div>
